@@ -1,0 +1,11 @@
+# Ignorar archivos del sistema
+Thumbs.db
+desktop.ini
+
+# Ignorar carpetas de Python
+__pycache__/
+*.pyc
+
+# Ignorar archivos de configuración de editores
+.vscode/
+.idea/
